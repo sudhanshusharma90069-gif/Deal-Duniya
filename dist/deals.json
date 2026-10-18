@@ -1,0 +1,58 @@
+{
+  "deals": [
+    {
+      "store": "Amazon",
+      "title": "Up to 60% off on Electronics",
+      "description": "Best offers on mobiles, laptops, and accessories.",
+      "link": "https://www.amazon.in?tag=YOUR_AFFILIATE_ID",
+      "category": "Electronics",
+      "discount": "60% OFF",
+      "ai_summary": "Massive price drops on top electronics — grab them before they’re gone."
+    },
+    {
+      "store": "Flipkart",
+      "title": "Big Savings on Mobiles",
+      "description": "Top brand smartphones with exchange and EMI offers.",
+      "link": "https://www.flipkart.com?affid=YOUR_AFFILIATE_ID",
+      "category": "Mobiles",
+      "discount": "50% OFF",
+      "ai_summary": "Latest smartphones with exchange bonuses and easy EMIs — perfect time to upgrade."
+    },
+    {
+      "store": "Blinkit",
+      "title": "Groceries in 10 Minutes",
+      "description": "Daily essentials delivered super fast.",
+      "link": "https://www.blinkit.com?referrer=YOUR_AFFILIATE_ID",
+      "category": "Groceries",
+      "discount": "FLAT 20%",
+      "ai_summary": "Daily essentials at your door in just 10 minutes — no waiting, no hassle."
+    },
+    {
+      "store": "Zepto",
+      "title": "Quick Grocery Delivery",
+      "description": "Fresh groceries and staples delivered in minutes.",
+      "link": "https://www.zeptonow.com?referral=YOUR_AFFILIATE_ID",
+      "category": "Groceries",
+      "discount": "BUY 1 GET 1",
+      "ai_summary": "Fresh groceries and staples delivered in minutes with tempting buy-one-get-one offers."
+    },
+    {
+      "store": "JioMart",
+      "title": "Daily Deals on Groceries",
+      "description": "Household items at discounted prices.",
+      "link": "https://www.jiomart.com?aff=YOUR_AFFILIATE_ID",
+      "category": "Household",
+      "discount": "30% OFF",
+      "ai_summary": "Stock up on household essentials and groceries at everyday low prices."
+    },
+    {
+      "store": "Reliance Digital",
+      "title": "Electronics Festival",
+      "description": "Latest gadgets, TVs, and appliances at best prices.",
+      "link": "https://www.reliancedigital.in?affiliate=YOUR_AFFILIATE_ID",
+      "category": "Electronics",
+      "discount": "UP TO 40%",
+      "ai_summary": "Upgrade your home with the latest gadgets, TVs, and appliances on sale."
+    }
+  ]
+}
